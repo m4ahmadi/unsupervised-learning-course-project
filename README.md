@@ -4,3 +4,5 @@
 In the first phase of the project, clustering techniques (k-means, EM Bernoulli, EM Multinomial) were evaluated on the MINST dataset.
 
 In part two, PCA feature reduction technique is investigated on '20 news groups' dataset.
+
+Both of these parts are implemented using scikit-learn library in Python.
